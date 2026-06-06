@@ -32,7 +32,7 @@ export const metadata = {
   title: "Synapse | Enterprise Agentic Vault",
   description: "Your company's private intelligence vault. Zero-scrape grounding, multimodal reasoning, and absolute business memory seamlessly blended.",
   icons: {
-    icon: '/icon.png',
+    icon: '/favicon.ico',
   },
 };
 
